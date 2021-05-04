@@ -1,6 +1,6 @@
-.gb 
-.sav
-.asm
-.ihx
-.o
-.sym
+*.gb 
+*.sav
+*.asm
+*.ihx
+*.o
+*.sym
